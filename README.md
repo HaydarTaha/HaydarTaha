@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Haydar Taha Tunç</h1>
+<h1 align="center">Hi 👋, I'm Haydar Taha Tunç</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haydartaha&label=Profile%20views&color=0e75b6&style=flat" alt="haydartaha" /> </p>
@@ -7,7 +7,7 @@
 
 - 🖥️ I’m working at **Devrim Hyperloop**
 
-- 🌱 I’m currently learning **React, Node.js, Express.js**
+- 🌱 I’m currently learning **React, Node.js, Express.js HTML, CSS**
 
 - 📫 How to reach me **tahatunc163@gmail.com**
 
