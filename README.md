@@ -5,7 +5,7 @@
 
 - 📖 I’m studying at [Marmara University](https://www.marmara.edu.tr/)
 
-- 🖥️ I’m <strong>.NET Developer Intern</strong> @[12M](https://12m.com.tr/bilisim/)
+- 🖥️ I’m <strong>Front-End Developer</strong> @[12M](https://12m.com.tr/bilisim/)
 
 - 📫 How to reach me **tahatunc163@gmail.com**
 
