@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tahatunc163@gmail.com**
 
-- 📄 [Know about my experiences](https://l24.im/WfJhOE8)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1Ea94b3o-rkB3xc5VPtuuQQ7xhdkVueDY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
