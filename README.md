@@ -5,9 +5,7 @@
 
 - 📖 I’m studying at [Marmara University](https://www.marmara.edu.tr/)
 
-- 🖥️ I’m working at **Devrim Hyperloop**
-
-- 🌱 I’m currently learning **React, Node.js, Express.js HTML, CSS**
+- 🖥️ I’m <strong>.NET Developer Intern</strong> @ [12M](https://12m.com.tr/bilisim/)
 
 - 📫 How to reach me **tahatunc163@gmail.com**
 
@@ -26,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haydartaha&show_icons=true&theme=dark&locale=en" alt="haydartaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haydartaha&theme=dark" alt="haydartaha" /></p>
-
-![Snake animation](https://github.com/HaydarTaha/HaydarTaha/blob/output/github-contribution-grid-snake.svg)
